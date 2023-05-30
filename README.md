@@ -1,0 +1,2 @@
+# srs_video_conference
+基于native webrtc m96实现srs多人通话视频会议的sdk
